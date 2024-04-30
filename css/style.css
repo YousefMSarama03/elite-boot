@@ -1,0 +1,121 @@
+
+
+
+body
+{
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+    transition: 0.5s;
+}
+
+
+body > nav > div > button > span
+{
+
+    color:white
+
+}
+
+
+body > nav > div > a >span
+{
+    color: rgb(207, 1, 1);
+    font-size: 19px;
+}
+
+
+
+body > nav
+{
+    color: aliceblue;
+}
+
+#navbarNavDropdown > ul > li.nav-item.dropdown > ul
+{
+    padding: 22px;
+}
+
+#navbarNavDropdown > ul > li> a:hover
+{
+    background-color: rgb(56, 56, 56);
+    color:black;   
+
+}
+
+#navbarNavDropdown > ul > li.nav-item.dropdown > ul > li > a:hover
+{
+    background-color: lightgray;
+    
+}
+
+#carouselExampleIndicators > div.carousel-indicators > button
+{
+    background-color: #ffa7a7;
+
+    transition: opacity 2.6s ease;
+    
+    margin-right:18px;
+}
+
+#carouselExampleIndicators > div.carousel-inner > div.carousel-item.active > div
+{
+    background: gray;
+    bottom: 6.25rem;
+    opacity: 70%;
+    
+}
+
+ .part
+{
+    margin-top: 65px;
+}
+
+
+
+.part p
+{
+    padding: 15px ;
+}
+
+
+
+ .feature
+{
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+
+body > div.container-fluid.bg-dark-subtle.text-center
+{
+    position: relative;
+    top: 74px;
+    padding: 32px;
+}
+
+.firstSection
+{
+    position: relative;
+    top: 200px;
+}
+
+
+.cards
+{
+    margin-top: 124px;
+    
+}
+
+.card
+{
+    
+}
+
+body > section:nth-child(4) > div > p
+{
+    font-size: 23px;
+}
+
+body > nav > div > a
+{
+
+}
